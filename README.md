@@ -1,5 +1,5 @@
 ### 👋 Hello and welcome 👋
-My name is Christian, a Computer Sciencetist currently working on app development for [MCA Optimizers](https://www.mcaoptimizers.com/).
+My name is Christian, a Computer Scientist currently working on app development for [MCA Optimizers](https://www.mcaoptimizers.com/).
 
 Projects
 - [Gejser Gold Card App](https://github.com/MCAgithub/gejserbar_guldkort_app)
