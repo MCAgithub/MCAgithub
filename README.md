@@ -1,5 +1,8 @@
-### Hi there 👋
-Hi there
+### 👋 Hello and welcome 👋
+My name is Christian, a Computer Sciencetist currently working on app development for [MCA Optimizers](https://www.mcaoptimizers.com/).
+
+CV
+
 <!--
 **MCAgithub/MCAgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
