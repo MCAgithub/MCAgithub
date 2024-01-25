@@ -1,7 +1,8 @@
 ### 👋 Hello and welcome 👋
 My name is Christian, a Computer Sciencetist currently working on app development for [MCA Optimizers](https://www.mcaoptimizers.com/).
 
-CV
+Projects
+- [Gejser Gold Card App](https://github.com/MCAgithub/gejserbar_guldkort_app)
 
 <!--
 **MCAgithub/MCAgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
