@@ -3,6 +3,7 @@ My name is Christian, a Computer Scientist currently working on app development 
 
 Projects
 - [Gejser Gold Card App](https://github.com/MCAgithub/gejserbar_guldkort_app)
+- [Diet Tracker App](https://github.com/MCAgithub/diet_tracker_app)
 
 <!--
 **MCAgithub/MCAgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
